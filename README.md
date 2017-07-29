@@ -12,7 +12,7 @@ In this spirit, the ESEC/FSE 2017 artifacts track exists to review, promote, sha
 
 ## Review Process
 
-Out of 62 research track papers (each eligible to submit to the artifacts track), we received 13 artifact submissions, ranging from data sets to benchmarks or tools. Each artifact was reviewed by 3 artifact PC members, after which authors were able to react to these reviews by fixing their artifacts (or their documentation). Subsequent re-reviewing and discussion led to 11 artifacts being accepted. Review criteria, more details as well as the list of artifact PC members can be found on the [conference web site](http://esec-fse17.uni-paderborn.de/call_artifacts.php).
+Out of 72 accepted research track papers (each eligible to submit to the artifacts track), we received 13 artifact submissions, ranging from data sets to benchmarks or tools. Each artifact was reviewed by 3 artifact PC members, after which authors were able to react to these reviews by fixing their artifacts (or their documentation). Subsequent re-reviewing and discussion led to 11 artifacts being accepted. Review criteria, more details as well as the list of artifact PC members can be found on the [conference web site](http://esec-fse17.uni-paderborn.de/call_artifacts.php).
 
 Out of these 11 accepted artifacts, 5 received an "Artifacts Evaluated - Reusable" badge, and 6 an "Artifacts Evaluated - Functional" badge. These badges are defined by the [ACM](​https://www.acm.org/publications/policies/artifact-review-badging) as:
 
