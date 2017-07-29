@@ -28,7 +28,7 @@ Below, we list the 11 accepted artifacts, grouped by badge and ordered by title.
 * Tegan Brennan, Nestan Tsiskaridze, Nicolas Rosner, Abdulbaki Aydin and Tevfik Bultan. [Constraint Normalization and Parameterized Caching for Quantitative Program Analysis](https://cashew.vlab.cs.ucsb.edu/)
 * Alexander Kn&uuml;ppel, Thomas Th&uuml;m, Stephan Mennicke, Jens Meinicke and Ina Schaefer. [Software Artifacts: Is There a Mismatch Between Real-World Feature Models and Product-Line Research?](https://github.com/AlexanderKnueppel/is-there-a-mismatch)
 * David Bingham Brown, Ben Liblit, Thomas Reps and Michael Vaughn. [The Care and Feeding of Wild-Caught Mutants](https://github.com/d-bingham/fse2017artifact)
-* Tim Nelson, Natasha Danas, Daniel Dougherty and Shriram Krishnamurthi. [The Power of "Why" and "Why not": Enriching Scenario Exploration with Provenance](http://www.cs.brown.edu/~tn/temp/amalgam-fse17.tar.gz) *[temporary location]*
+* Tim Nelson, Natasha Danas, Daniel Dougherty and Shriram Krishnamurthi. [The Power of "Why" and "Why not": Enriching Scenario Exploration with Provenance](http://cs.brown.edu/research/plt/dl/fse2017/)
 * Marcel B&ouml;hme, Ezekiel Olamide Soremekun, Sudipta Chattopadhyay, Emamurho Ugherughe and Andreas Zeller. [Where is the Bug and How is it Fixed? An Experiment with Practitioners](https://dbgbench.github.io/)
 
 ## Artifacts Evaluated - Functional
