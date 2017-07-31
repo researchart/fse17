@@ -38,6 +38,6 @@ Below, we list the 11 accepted artifacts, grouped by badge and ordered by title.
 * Fan Long, Peter Amidon and Martin Rinard. [Automatic Inference of Code Transforms for Patch Generation Systems](http://rhino.csail.mit.edu/genesis-rep/)
 * Fabrizio Pastore, Leonardo Mariani and Daniela Micucci. [BCDI: Behavioral Driven Conflict Identification](https://github.com/pastoref/bdci)
 * Mojtaba Bagherzadeh, Nicolas Hili and Juergen Dingel. [Model-level, Platform-independent Debugging in the Context of the Model-driven Development of Real-time Systems](https://github.com/moji1/MDebugger)
-* Alireza Sadeghi, Reyhaneh Jabbarvand and Sam Malek. [PATDroid: Permission-Aware GUI Testing of Android](https://sites.google.com/view/patdroid)
+* Alireza Sadeghi, Reyhaneh Jabbarvand and Sam Malek. [PATDroid: Permission-Aware GUI Testing of Android](http://www.ics.uci.edu/~seal/projects/patdroid/index.html)
 
 
